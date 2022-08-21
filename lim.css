@@ -1,0 +1,71 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+}
+
+.articolo{
+  width: 60%;
+  background-color: rgba(10, 10, 10, 0.6);
+  margin: auto;
+  border-radius: 12px;
+}
+
+#logo-lim{
+  padding-top: 90px;
+  width: 200px;
+  margin: auto;
+}
+
+#titolo{
+  color: rgb(0, 255, 0);
+}
+
+.bottoneria{
+  width: 80%;
+  padding: 11px;
+  margin: auto;
+  background-color: rgb(0, 255, 0);
+  border-radius: 3px;
+}
+
+
+#corpo{
+  padding-left: 8%;
+  width: 50%;
+}
+
+h2, strong, p{
+  display: inline-block;
+  color: white;
+}
+
+#arrow{
+  color: white;
+}
+
+#prima-carica{
+  width: 100px;
+  border-radius: 6px;
+  padding: 5px;
+  padding-left: 60%;
+  color: white;
+  background-color: orange;
+}
+
+#seconda-carica{
+  width: 100px;
+  border-radius: 6px;
+  padding: 5px;
+  padding-left: 90%;
+  color: white;
+  background-color: green;
+}
+
+#terza-carica{
+  width: 100px;
+  border-radius: 6px;
+  padding: 5px;
+  padding-left: 20%;
+  color: white;
+  background-color: red;
+}
